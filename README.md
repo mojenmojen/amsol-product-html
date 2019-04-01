@@ -2,7 +2,7 @@
 Product Description HTML files for Amazing-Solutions.com
 
 ## Instructions
-All files in html directory should have the same structure as template.html. 
+All files in html directory should have the same structure as **template.html**. 
 
 **html/pain-spray-mist.html** is complete. The template has been applied to this file and all sections have been filled in. 
 The template should be applied to all other files.
